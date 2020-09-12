@@ -1,0 +1,6 @@
+name: CustomItems
+version: ${project.version}
+main: me.minecraaftt.customitems.CustomItems
+api-version: 1.15
+authors: [ Minecraaftt ]
+description: Adds custom items!
